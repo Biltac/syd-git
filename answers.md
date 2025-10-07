@@ -34,6 +34,17 @@ answers.md" indique qu'il y a eu un changement (CHG) dans le fichier answers.md,
 
 ## Gitgraph
 
+1. Branche (develop)
+2. identifiant de commit
+3. message de commit
+4. auteur du commit
+5. tag
+6. branche dernier commit
+7. Point de merge
+8. Branche principale (main)
+9. Historique des commits
+10. Commit initial
+
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
